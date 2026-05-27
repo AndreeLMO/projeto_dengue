@@ -1,4 +1,4 @@
-# 🦠 PySUS: Centro Inteligente de Monitoramento Epidemiológico
+# 🦠 PySUS: Centro Inteligente de Monitoramento Epidemiológico - Ênfase nos casos de Dengue
 
 [![Python Version](https://img.shields.io/badge/Python-3.9%2B-blue?style=for-the-badge&logo=python)](https://www.python.org)
 [![Pandas](https://img.shields.io/badge/Pandas-2.0%2B-darkblue?style=for-the-badge&logo=pandas)](https://pandas.pydata.org)
