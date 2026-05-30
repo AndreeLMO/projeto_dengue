@@ -10,7 +10,6 @@ Um ecossistema modular desenvolvido em Python focado em Engenharia e Análise Av
 ---
 
 ## 📌 Diferenciais Técnicos & Arquitetura
-Este projeto foi desenhado sob as melhores práticas de Data Science para portfólio corporativo, evidenciando:
 * **Pipeline de ETL Estruturado:** Normalização de colunas, tipagem estrita de objetos temporais (`datetime64`), mapeamento categórico indexado e engenharia de novos atributos (*feature engineering*).
 * **Dualidade de Visualização:** Gráficos estáticos de alta resolução (`matplotlib` + `seaborn`) estruturados para relatórios médicos tradicionais, em paralelo a painéis interativos modernos (`plotly`) orientados a decisões executivas.
 * **Otimização de Armazenamento:** Implementação de exportação híbrida em formatos legados (`.csv` com codificação adequada) e modernos de alta performance computacional (`.parquet`), ideais para integração com Data Lakes corporativos.
